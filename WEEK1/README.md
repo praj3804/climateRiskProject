@@ -1,4 +1,4 @@
-# Climate Risk Analysis Project WEEK 1
+# AI-Powered Temperature Anomaly Detection & Early Warning System  WEEK 1
 
 ## Overview
 
