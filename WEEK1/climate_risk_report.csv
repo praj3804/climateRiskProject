@@ -1,0 +1,2 @@
+timestamp,location,temperature,humidity,wind_speed,heatwave_risk_score,heatwave_risk_level,coldwave_risk_score,coldwave_risk_level,weather_conditions
+2025-09-13 18:00:29,"Delhi, IN",30.05,70,0,0.9,Extreme Heatwave Risk,0.1,No Coldwave Risk,haze
